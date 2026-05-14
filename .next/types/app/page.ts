@@ -1,4 +1,4 @@
-// File: C:\Users\KDNET\Documents\Codex\2026-05-12\cr-er-un-site-web-moderne-2\app\page.tsx
+// File: C:\Users\KDNET\Documents\Codex\2026-05-12\Maison_Deeya\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
