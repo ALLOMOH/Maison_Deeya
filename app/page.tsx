@@ -302,7 +302,7 @@ export default function Home() {
             {[
               "/img4.png",
               "/img3.png",
-              "/img2.jpg",
+              "/img2.png",
               "/img1.png",
             ].map((src, index) => (
               <motion.img
